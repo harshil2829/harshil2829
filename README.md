@@ -18,10 +18,6 @@ i am a UI/UX designer<br>frontend backend developer<br>AI/ML<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harshil2829&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 <div align="center">
     <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
 </div>
